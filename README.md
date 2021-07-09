@@ -1,0 +1,1 @@
+sqlite wrapper whith some useful functions
