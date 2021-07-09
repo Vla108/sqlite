@@ -1,4 +1,4 @@
-module sqlite
+module github.com/Vla108/sqlite
 
 go 1.16
 
